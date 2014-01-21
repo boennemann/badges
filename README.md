@@ -1,7 +1,8 @@
 # Badges
-> Gotta catch 'em all
 
-A repo to showcase every JavaScript related badge out there.
+A collection of all JavaScript related and free for open-source readme badges out there. All of the services are live and operating on this repositoriy's dummy code.
+
+Your favorite service is missing? [Pull Requests welcome](Contributing.md).
 
 ## Continous Integration/Deployment
 
