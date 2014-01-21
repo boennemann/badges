@@ -3,6 +3,9 @@
 
 A repo to showcase every JavaScript related badge out there.
 
+## Bitdeli
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/boennemann/badges/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
 ## CodeClimate
 [![Code Climate](https://codeclimate.com/github/boennemann/badges.png)](https://codeclimate.com/github/boennemann/badges)
 
