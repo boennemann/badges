@@ -11,6 +11,7 @@ A repo to showcase every JavaScript related badge out there.
 [![devDependency Status](https://david-dm.org/boennemann/badges/dev-status.png)](https://david-dm.org/boennemann/badges#info=devDependencies)
 
 ## Shields.io
+[![Gittip](http://img.shields.io/gittip/boennemann.png)](https://www.gittip.com/boennemann/)
 [![Generic Badge](http://img.shields.io/generic/badge.png?color=green)](http://badges.github.io/shields/)
 
 ## TravisCI
