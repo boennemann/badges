@@ -36,5 +36,10 @@ A repo to showcase every JavaScript related badge out there.
 ## TravisCI
 [![Build Status](https://travis-ci.org/boennemann/badges.png?branch=master)](https://travis-ci.org/boennemann/badges)
 
+## Version Badge
+[![NPM version](https://badge.fury.io/js/badges.png)](http://badge.fury.io/js/badges)
+[![GitHub version](https://badge.fury.io/gh/boennemann%2Fbadges.png)](http://badge.fury.io/gh/boennemann%2Fbadges)
+[![Bower version](https://badge.fury.io/bo/badges.png)](http://badge.fury.io/bo/badges)
+
 ## VersionEye
 [![Dependency Status](https://www.versioneye.com/user/projects/52ddcaabec13750540000106/badge.png)](https://www.versioneye.com/user/projects/52ddcaabec13750540000106)
