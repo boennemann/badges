@@ -2,7 +2,7 @@
 
 A collection of all JavaScript related and free for open-source readme badges out there. All of the services are live and operating on this repositoriy's dummy code.
 
-Your favorite service is missing? [Pull Requests welcome](Contributing.md).
+Your favorite service is missing? [Pull Requests welcome](CONTRIBUTING.md).
 
 ## Continous Integration/Deployment
 
