@@ -30,6 +30,9 @@ A repo to showcase every JavaScript related badge out there.
 [![Dependency Status](https://david-dm.org/boennemann/badges.png)](https://david-dm.org/boennemann/badges)
 [![devDependency Status](https://david-dm.org/boennemann/badges/dev-status.png)](https://david-dm.org/boennemann/badges#info=devDependencies)
 
+### Gemnasium
+[![Dependency Status](https://gemnasium.com/boennemann/badges.png)](https://gemnasium.com/boennemann/badges)
+
 ### VersionEye
 [![Dependency Status](https://www.versioneye.com/user/projects/52ddcaabec13750540000106/badge.png)](https://www.versioneye.com/user/projects/52ddcaabec13750540000106)
 
