@@ -46,3 +46,6 @@ A repo to showcase every JavaScript related badge out there.
 
 ## VersionEye
 [![Dependency Status](https://www.versioneye.com/user/projects/52ddcaabec13750540000106/badge.png)](https://www.versioneye.com/user/projects/52ddcaabec13750540000106)
+
+## Waffle
+[![Stories in Ready](https://badge.waffle.io/boennemann/badges.png?label=ready)](https://waffle.io/boennemann/badges)
