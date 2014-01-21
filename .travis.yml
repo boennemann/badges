@@ -3,8 +3,14 @@ node_js:
   - '0.10'
 before_script:
   - ./node_modules/bower/bin/bower install
+after_success:
+  - ./node_modules/grunt-cli/bin/grunt coveralls
 cache:
   directories:
     - node_modules
+env:
+  global:
+    - COVERALLS_SERVICE_NAME="TravisCI"
+    - secure: "QvX/YP7OmU0ysXtTOgT7Kl1P4CO+2b5HKkQG191DilRBddBXV92uElkACvOG8uxEW3tbv99rV3jJN0t53gUwMTUHL/7+CU7UcmXqC5dI2wWqP2PN0waXzL21jtp/811dzvzQZ3wlQG5hJ4bSNMLp/UKHHMiH9jTLyawjmIJmOb4="
 notifications:
   email: false
