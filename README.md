@@ -6,6 +6,9 @@ A repo to showcase every JavaScript related badge out there.
 ## CodeClimate
 [![Code Climate](https://codeclimate.com/github/boennemann/badges.png)](https://codeclimate.com/github/boennemann/badges)
 
+## CodeShip
+[ ![Codeship Status for boennemann/badges](https://www.codeship.io/projects/2975f190-646d-0131-452c-7a6d2bba8338/status?branch=master)](https://www.codeship.io/projects/12448)
+
 ## Coveralls
 [![Coverage Status](https://coveralls.io/repos/boennemann/badges/badge.png)](https://coveralls.io/r/boennemann/badges)
 
