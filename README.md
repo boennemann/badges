@@ -1,3 +1,4 @@
+[![Stories in Ready](https://badge.waffle.io/boennemann/badges.png?label=ready)](https://waffle.io/boennemann/badges)
 # Badges
 > Gotta catch 'em all
 
