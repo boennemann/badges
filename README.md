@@ -8,6 +8,10 @@ A repo to showcase every JavaScript related badge out there.
 ### Codeship
 [![Codeship Status for boennemann/badges](https://www.codeship.io/projects/2975f190-646d-0131-452c-7a6d2bba8338/status?branch=master)](https://www.codeship.io/projects/12448)
 
+### Semaphore
+[![Build Status](https://semaphoreapp.com/api/v1/projects/d4cca506-99be-44d2-b19e-176f36ec8cf1/128505/shields_badge.png)](https://semaphoreapp.com/boennemann/badges)
+[![Build Status](https://semaphoreapp.com/api/v1/projects/d4cca506-99be-44d2-b19e-176f36ec8cf1/128505/badge.png)](https://semaphoreapp.com/boennemann/badges)
+
 ### TravisCI
 [![Build Status](https://travis-ci.org/boennemann/badges.png?branch=master)](https://travis-ci.org/boennemann/badges)
 
