@@ -6,6 +6,9 @@ A repo to showcase every JavaScript related badge out there.
 ## Bitdeli
 [![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/boennemann/badges/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
 
+## Bower
+<img src="http://benschwarz.github.io/bower-badges/badge@2x.png" width="130" height="30">
+
 ## Code Climate
 [![Code Climate](https://codeclimate.com/github/boennemann/badges.png)](https://codeclimate.com/github/boennemann/badges)
 
