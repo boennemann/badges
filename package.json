@@ -1,0 +1,35 @@
+{
+  "name": "badges",
+  "version": "0.0.0",
+  "description": "A repo to showcase every JavaScript related badge out there.",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "grunt karma"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/boennemann/badges.git"
+  },
+  "keywords": [
+    "badges"
+  ],
+  "author": "Stephan Bönnemann",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/boennemann/badges/issues"
+  },
+  "homepage": "https://github.com/boennemann/badges",
+  "devDependencies": {
+    "grunt": "~0.4.2",
+    "grunt-karma": "~0.6.2",
+    "grunt-karma-coveralls": "~2.3.0",
+    "karma": "~0.10.9",
+    "karma-coverage": "~0.1.4",
+    "karma-jasmine": "~0.1.5",
+    "karma-phantomjs-launcher": "~0.1.1",
+    "karma-requirejs": "~0.2.1"
+  },
+  "dependencies": {
+    "lodash": "~2.4.1"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "name": "badges",
+  "version": "0.0.0",
+  "description": "A repo to showcase every JavaScript related badge out there.",
+  "homepage": "https://github.com/boennemann/badges",
+  "authors": [
+    "Stephan Bönnemann"
+  ],
+  "main": "src/index.js",
+  "keywords": [
+    "badges"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "lodash": "~2.4.1"
+  }
+}
