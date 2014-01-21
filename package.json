@@ -4,7 +4,7 @@
   "description": "A repo to showcase every JavaScript related badge out there.",
   "main": "src/index.js",
   "scripts": {
-    "test": "grunt karma"
+    "test": "./node_modules/grunt-cli/bin/grunt karma"
   },
   "repository": {
     "type": "git",
@@ -20,10 +20,12 @@
   },
   "homepage": "https://github.com/boennemann/badges",
   "devDependencies": {
+    "bower": "~1.2.8",
     "grunt": "~0.4.2",
     "grunt-karma": "~0.6.2",
     "grunt-karma-coveralls": "~2.3.0",
     "karma": "~0.10.9",
+    "grunt-cli": "~0.1.11",
     "karma-coverage": "~0.1.4",
     "karma-jasmine": "~0.1.5",
     "karma-phantomjs-launcher": "~0.1.1",
