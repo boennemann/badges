@@ -24,6 +24,9 @@ Your favorite service is missing? [Pull Requests welcome](CONTRIBUTING.md).
 ### NodeICO
 [![NPM](https://nodei.co/npm/badges.png)](https://nodei.co/npm/badges/)
 
+### Semantic Versioning (via Shields.io)
+[![Semver](http://img.shields.io/SemVer/2.0.0.png)](http://semver.org/spec/v2.0.0.html)
+
 ### Version Badge
 [![NPM version](https://badge.fury.io/js/badges.png)](http://badge.fury.io/js/badges)
 [![GitHub version](https://badge.fury.io/gh/boennemann%2Fbadges.png)](http://badge.fury.io/gh/boennemann%2Fbadges)
