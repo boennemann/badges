@@ -46,6 +46,7 @@ Your favorite service is missing? [Pull Requests welcome](CONTRIBUTING.md).
 
 ### VersionEye
 [![Dependency Status](https://www.versioneye.com/user/projects/52ddcaabec13750540000106/badge.png)](https://www.versioneye.com/user/projects/52ddcaabec13750540000106)
+[![Bower Dependency Status](https://www.versioneye.com/user/projects/52ebc86aec1375999400003e/badge.png)](https://www.versioneye.com/user/projects/52ebc86aec1375999400003e)
 
 ## Test Coverage
 
