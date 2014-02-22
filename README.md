@@ -41,9 +41,6 @@ Your favorite service is missing? [Pull Requests welcome](CONTRIBUTING.md).
 [![Dependency Status](https://david-dm.org/boennemann/badges.png?theme=shields.io)](https://david-dm.org/boennemann/badges)
 [![devDependency Status](https://david-dm.org/boennemann/badges/dev-status.png?theme=shields.io)](https://david-dm.org/boennemann/badges#info=devDependencies)
 
-### Gemnasium
-[![Dependency Status](https://gemnasium.com/boennemann/badges.png)](https://gemnasium.com/boennemann/badges)
-
 ### VersionEye
 [![Dependency Status](https://www.versioneye.com/user/projects/52ddcaabec13750540000106/badge.png)](https://www.versioneye.com/user/projects/52ddcaabec13750540000106)
 [![Bower Dependency Status](https://www.versioneye.com/user/projects/52ebc86aec1375999400003e/badge.png)](https://www.versioneye.com/user/projects/52ebc86aec1375999400003e)
