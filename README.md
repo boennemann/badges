@@ -14,7 +14,7 @@ Your favorite service is missing? [Pull Requests welcome](CONTRIBUTING.md).
 [![Build Status](https://semaphoreapp.com/api/v1/projects/d4cca506-99be-44d2-b19e-176f36ec8cf1/128505/badge.png)](https://semaphoreapp.com/boennemann/badges)
 
 ### TravisCI
-[![Build Status](https://travis-ci.org/boennemann/badges.png?branch=master)](https://travis-ci.org/boennemann/badges)
+[![Build Status](https://travis-ci.org/boennemann/badges.svg?branch=master)](https://travis-ci.org/boennemann/badges)
 
 ## Package Information
 
@@ -22,28 +22,28 @@ Your favorite service is missing? [Pull Requests welcome](CONTRIBUTING.md).
 <img src="http://benschwarz.github.io/bower-badges/badge@2x.png" width="130" height="30">
 
 ### NodeICO
-[![NPM](https://nodei.co/npm/badges.png)](https://nodei.co/npm/badges/)
+[![NPM](https://nodei.co/npm/badges.svg)](https://nodei.co/npm/badges/)
 
 ### Semantic Versioning (via Shields.io)
 [![Semver](http://img.shields.io/SemVer/2.0.0.png)](http://semver.org/spec/v2.0.0.html)
 
 ### Version Badge
-[![NPM version](https://badge.fury.io/js/badges.png)](http://badge.fury.io/js/badges)
-[![GitHub version](https://badge.fury.io/gh/boennemann%2Fbadges.png)](http://badge.fury.io/gh/boennemann%2Fbadges)
-[![Bower version](https://badge.fury.io/bo/badges.png)](http://badge.fury.io/bo/badges)
+[![NPM version](https://badge.fury.io/js/badges.svg)](http://badge.fury.io/js/badges)
+[![GitHub version](https://badge.fury.io/gh/boennemann%2Fbadges.svg)](http://badge.fury.io/gh/boennemann%2Fbadges)
+[![Bower version](https://badge.fury.io/bo/badges.svg)](http://badge.fury.io/bo/badges)
 
 ## Dependency Status
 
 ### David
-[![Dependency Status](https://david-dm.org/boennemann/badges.png)](https://david-dm.org/boennemann/badges)
-[![devDependency Status](https://david-dm.org/boennemann/badges/dev-status.png)](https://david-dm.org/boennemann/badges#info=devDependencies)
+[![Dependency Status](https://david-dm.org/boennemann/badges.svg)](https://david-dm.org/boennemann/badges)
+[![devDependency Status](https://david-dm.org/boennemann/badges/dev-status.svg)](https://david-dm.org/boennemann/badges#info=devDependencies)
 
-[![Dependency Status](https://david-dm.org/boennemann/badges.png?theme=shields.io)](https://david-dm.org/boennemann/badges)
-[![devDependency Status](https://david-dm.org/boennemann/badges/dev-status.png?theme=shields.io)](https://david-dm.org/boennemann/badges#info=devDependencies)
+[![Dependency Status](https://david-dm.org/boennemann/badges.svg?theme=shields.io)](https://david-dm.org/boennemann/badges)
+[![devDependency Status](https://david-dm.org/boennemann/badges/dev-status.svg?theme=shields.io)](https://david-dm.org/boennemann/badges#info=devDependencies)
 
 ### VersionEye
-[![Dependency Status](https://www.versioneye.com/user/projects/52ddcaabec13750540000106/badge.png)](https://www.versioneye.com/user/projects/52ddcaabec13750540000106)
-[![Bower Dependency Status](https://www.versioneye.com/user/projects/52ebc86aec1375999400003e/badge.png)](https://www.versioneye.com/user/projects/52ebc86aec1375999400003e)
+[![Dependency Status](https://www.versioneye.com/user/projects/52ddcaabec13750540000106/badge.svg)](https://www.versioneye.com/user/projects/52ddcaabec13750540000106)
+[![Bower Dependency Status](https://www.versioneye.com/user/projects/52ebc86aec1375999400003e/badge.svg)](https://www.versioneye.com/user/projects/52ebc86aec1375999400003e)
 
 ## Test Coverage
 
@@ -76,7 +76,7 @@ Your favorite service is missing? [Pull Requests welcome](CONTRIBUTING.md).
 ### Funding
 
 #### Gittip (via Shields.io)
-[![Gittip](http://img.shields.io/gittip/boennemann.png)](https://www.gittip.com/boennemann/)
+[![Gittip](http://img.shields.io/gittip/boennemann.svg)](https://www.gittip.com/boennemann/)
 
 ### Project Managment
 
@@ -86,4 +86,4 @@ Your favorite service is missing? [Pull Requests welcome](CONTRIBUTING.md).
 ### Generic
 
 #### Shields.io
-[![Generic Badge](http://img.shields.io/generic/badge.png?color=green)](http://badges.github.io/shields/)
+[![Generic Badge](http://img.shields.io/generic/badge.svg?color=green)](http://badges.github.io/shields/)
