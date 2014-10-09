@@ -4,7 +4,7 @@ A collection of all JavaScript related and free for open-source readme badges ou
 
 Your favorite service is missing? [Pull Requests welcome](CONTRIBUTING.md).
 
-## Continous Integration/Deployment
+## Continuous Integration/Deployment
 
 ### Codeship
 [![Codeship Status for boennemann/badges](https://www.codeship.io/projects/2975f190-646d-0131-452c-7a6d2bba8338/status?branch=master)](https://www.codeship.io/projects/12448)
