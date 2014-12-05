@@ -78,6 +78,9 @@ Your favorite service is missing? [Pull Requests welcome](CONTRIBUTING.md).
 #### Gittip (via Shields.io)
 [![Gittip](http://img.shields.io/gittip/boennemann.svg)](https://www.gittip.com/boennemann/)
 
+#### Flattr
+[![Flattr this git repo](http://api.flattr.com/button/flattr-badge-large.png)](https://flattr.com/submit/auto?user_id=boenne&url=https://github.com/boennemann/badges&title=badges&language=&tags=github&category=software) 
+
 ### Project Managment
 
 #### Waffle
