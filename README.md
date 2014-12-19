@@ -90,3 +90,7 @@ Your favorite service is missing? [Pull Requests welcome](CONTRIBUTING.md).
 
 #### Shields.io
 [![Generic Badge](http://img.shields.io/generic/badge.svg?color=green)](http://badges.github.io/shields/)
+
+
+#### ThankADeveloper.org
+[![Thank a developer](https://raw.githubusercontent.com/thankadeveloper/thankadeveloper/master/app/assets/images/badge.png)](http:/thankadeveloper.org?repo=boennemann/badges)
