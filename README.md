@@ -79,7 +79,7 @@ Your favorite service is missing? [Pull Requests welcome](CONTRIBUTING.md).
 [![Gittip](http://img.shields.io/gittip/boennemann.svg)](https://www.gittip.com/boennemann/)
 
 #### Flattr
-[![Flattr this git repo](http://api.flattr.com/button/flattr-badge-large.png)](https://flattr.com/submit/auto?user_id=boenne&url=https://github.com/boennemann/badges&title=badges&language=&tags=github&category=software) 
+[![Flattr this git repo](http://api.flattr.com/button/flattr-badge-large.png)](https://flattr.com/submit/auto?user_id=boenne&url=https://github.com/boennemann/badges&title=badges&language=&tags=github&category=software)
 
 ### Project Managment
 
@@ -89,4 +89,108 @@ Your favorite service is missing? [Pull Requests welcome](CONTRIBUTING.md).
 ### Generic
 
 #### Shields.io
-[![Generic Badge](http://img.shields.io/generic/badge.svg?color=green)](http://badges.github.io/shields/)
+[![Shields.io](https://img.shields.io/badge/shields.io-ok-green.svg?style=flat)](http://shields.io/)
+
+### For the Badge
+
+[![forthebadge](http://forthebadge.com/badges/ages-12.svg)](http://forthebadge.com)
+
+[![forthebadge](http://forthebadge.com/badges/ages-20-30.svg)](http://forthebadge.com)
+
+[![forthebadge](http://forthebadge.com/badges/as-seen-on-tv.svg)](http://forthebadge.com)
+
+[![forthebadge](http://forthebadge.com/badges/built-by-codebabes.svg)](http://forthebadge.com)
+
+[![forthebadge](http://forthebadge.com/badges/built-by-crips.svg)](http://forthebadge.com)
+
+[![forthebadge](http://forthebadge.com/badges/built-by-developers.svg)](http://forthebadge.com)
+
+[![forthebadge](http://forthebadge.com/badges/built-by-hipsters.svg)](http://forthebadge.com)
+
+[![forthebadge](http://forthebadge.com/badges/built-with-love.svg)](http://forthebadge.com)
+
+[![forthebadge](http://forthebadge.com/badges/built-with-swag.svg)](http://forthebadge.com)
+
+[![forthebadge](http://forthebadge.com/badges/certified-cousin-terio.svg)](http://forthebadge.com)
+
+[![forthebadge](http://forthebadge.com/badges/certified-snoop-lion.svg)](http://forthebadge.com)
+
+[![forthebadge](http://forthebadge.com/badges/certified-steve-bruhle.svg)](http://forthebadge.com)
+
+[![forthebadge](http://forthebadge.com/badges/compatibility-betamax.svg)](http://forthebadge.com)
+
+[![forthebadge](http://forthebadge.com/badges/compatibility-blackberry.svg)](http://forthebadge.com)
+
+[![forthebadge](http://forthebadge.com/badges/compatibility-club-penguin.svg)](http://forthebadge.com)
+
+[![forthebadge](http://forthebadge.com/badges/compatibility-emacs.svg)](http://forthebadge.com)
+
+[![forthebadge](http://forthebadge.com/badges/compatibility-ie-6.svg)](http://forthebadge.com)
+
+[![forthebadge](http://forthebadge.com/badges/compatibility-opera-4.svg)](http://forthebadge.com)
+
+[![forthebadge](http://forthebadge.com/badges/contains-cat-gifs.svg)](http://forthebadge.com)
+
+[![forthebadge](http://forthebadge.com/badges/designed-in-ms-paint.svg)](http://forthebadge.com)
+
+[![forthebadge](http://forthebadge.com/badges/does-not-contain-msg.svg)](http://forthebadge.com)
+
+[![forthebadge](http://forthebadge.com/badges/does-not-contain-treenuts.svg)](http://forthebadge.com)
+
+[![forthebadge](http://forthebadge.com/badges/face-toasted.svg)](http://forthebadge.com)
+
+[![forthebadge](http://forthebadge.com/badges/fo-shizzle.svg)](http://forthebadge.com)
+
+[![forthebadge](http://forthebadge.com/badges/fo-sho.svg)](http://forthebadge.com)
+
+[![forthebadge](http://forthebadge.com/badges/for-sharks.svg)](http://forthebadge.com)
+
+[![forthebadge](http://forthebadge.com/badges/fuck-it-ship-it.svg)](http://forthebadge.com)
+
+[![forthebadge](http://forthebadge.com/badges/gluten-free.svg)](http://forthebadge.com)
+
+[![forthebadge](http://forthebadge.com/badges/just-plain-nasty.svg)](http://forthebadge.com)
+
+[![forthebadge](http://forthebadge.com/badges/kinda-sfw.svg)](http://forthebadge.com)
+
+[![forthebadge](http://forthebadge.com/badges/made-with-crayons.svg)](http://forthebadge.com)
+
+[![forthebadge](http://forthebadge.com/badges/makes-people-smile.svg)](http://forthebadge.com)
+
+[![forthebadge](http://forthebadge.com/badges/mom-made-pizza-rolls.svg)](http://forthebadge.com)
+
+[![forthebadge](http://forthebadge.com/badges/no-ragrets.svg)](http://forthebadge.com)
+
+[![forthebadge](http://forthebadge.com/badges/oooo-kill-em.svg)](http://forthebadge.com)
+
+[![forthebadge](http://forthebadge.com/badges/powered-by-case-western-reserve.svg)](http://forthebadge.com)
+
+[![forthebadge](http://forthebadge.com/badges/powered-by-comcast.svg)](http://forthebadge.com)
+
+[![forthebadge](http://forthebadge.com/badges/powered-by-electricity.svg)](http://forthebadge.com)
+
+[![forthebadge](http://forthebadge.com/badges/powered-by-jeffs-keyboard.svg)](http://forthebadge.com)
+
+[![forthebadge](http://forthebadge.com/badges/powered-by-netflix.svg)](http://forthebadge.com)
+
+[![forthebadge](http://forthebadge.com/badges/powered-by-oxygen.svg)](http://forthebadge.com)
+
+[![forthebadge](http://forthebadge.com/badges/powered-by-water.svg)](http://forthebadge.com)
+
+[![forthebadge](http://forthebadge.com/badges/powered-by-watergate.svg)](http://forthebadge.com)
+
+[![forthebadge](http://forthebadge.com/badges/pretty-risque.svg)](http://forthebadge.com)
+
+[![forthebadge](http://forthebadge.com/badges/reading-6th-grade-level.svg)](http://forthebadge.com)
+
+[![forthebadge](http://forthebadge.com/badges/uses-badges.svg)](http://forthebadge.com)
+
+[![forthebadge](http://forthebadge.com/badges/uses-css.svg)](http://forthebadge.com)
+
+[![forthebadge](http://forthebadge.com/badges/uses-git.svg)](http://forthebadge.com)
+
+[![forthebadge](http://forthebadge.com/badges/uses-html.svg)](http://forthebadge.com)
+
+[![forthebadge](http://forthebadge.com/badges/uses-js.svg)](http://forthebadge.com)
+
+[![forthebadge](http://forthebadge.com/badges/validated-html2.svg)](http://forthebadge.com)
