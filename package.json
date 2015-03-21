@@ -1,6 +1,6 @@
 {
   "name": "badge-list",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "A repo to showcase every JavaScript related badge out there.",
   "main": "src/index.js",
   "scripts": {
