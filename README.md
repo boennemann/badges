@@ -22,13 +22,13 @@ Your favorite service is missing? [Pull Requests welcome](CONTRIBUTING.md).
 <img src="http://benschwarz.github.io/bower-badges/badge@2x.png" width="130" height="30">
 
 ### NodeICO
-[![NPM](https://nodei.co/npm/badges.svg)](https://nodei.co/npm/badges/)
+[![NPM](https://nodei.co/npm/badge-list.svg)](https://nodei.co/npm/badge-list/)
 
 ### Semantic Versioning (via Shields.io)
 [![Semver](http://img.shields.io/SemVer/2.0.0.png)](http://semver.org/spec/v2.0.0.html)
 
 ### Version Badge
-[![NPM version](https://badge.fury.io/js/badges.svg)](http://badge.fury.io/js/badges)
+[![NPM version](https://badge.fury.io/js/badge-list.svg)](http://badge.fury.io/js/badge-list)
 [![GitHub version](https://badge.fury.io/gh/boennemann%2Fbadges.svg)](http://badge.fury.io/gh/boennemann%2Fbadges)
 [![Bower version](https://badge.fury.io/bo/badges.svg)](http://badge.fury.io/bo/badges)
 

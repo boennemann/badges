@@ -1,5 +1,5 @@
 {
-  "name": "badges",
+  "name": "badge-list",
   "version": "0.0.1",
   "description": "A repo to showcase every JavaScript related badge out there.",
   "main": "src/index.js",
