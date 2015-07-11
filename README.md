@@ -16,6 +16,9 @@ Your favorite service is missing? [Pull Requests welcome](CONTRIBUTING.md).
 ### TravisCI
 [![Build Status](https://travis-ci.org/boennemann/badges.svg?branch=master)](https://travis-ci.org/boennemann/badges)
 
+### wercker
+[![wercker status](https://app.wercker.com/status/f0518e6870c40bb93878fe5c6f1cb3c1/m/master "wercker status")](https://app.wercker.com/project/bykey/f0518e6870c40bb93878fe5c6f1cb3c1)
+
 ## Package Information
 
 ### Bower
