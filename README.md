@@ -16,6 +16,9 @@ Your favorite service is missing? [Pull Requests welcome](CONTRIBUTING.md).
 ### TravisCI
 [![Build Status](https://travis-ci.org/boennemann/badges.svg?branch=master)](https://travis-ci.org/boennemann/badges)
 
+### wercker
+[![wercker status](https://app.wercker.com/status/f0518e6870c40bb93878fe5c6f1cb3c1/m/master "wercker status")](https://app.wercker.com/project/bykey/f0518e6870c40bb93878fe5c6f1cb3c1)
+
 ## Package Information
 
 ### Bower
@@ -85,6 +88,11 @@ Your favorite service is missing? [Pull Requests welcome](CONTRIBUTING.md).
 
 #### Waffle
 [![Stories in Ready](https://badge.waffle.io/boennemann/badges.png?label=ready)](https://waffle.io/boennemann/badges)
+
+### Chat
+
+#### Gitter
+[![Join the chat at https://gitter.im/jstriebel/badges](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/jstriebel/badges)
 
 ### Generic
 
