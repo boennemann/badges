@@ -86,6 +86,11 @@ Your favorite service is missing? [Pull Requests welcome](CONTRIBUTING.md).
 #### Waffle
 [![Stories in Ready](https://badge.waffle.io/boennemann/badges.png?label=ready)](https://waffle.io/boennemann/badges)
 
+### Chat
+
+#### Gitter
+[![Join the chat at https://gitter.im/jstriebel/badges](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/jstriebel/badges)
+
 ### Generic
 
 #### Shields.io
