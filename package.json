@@ -23,7 +23,7 @@
   "devDependencies": {
     "bower": "1.5.2",
     "grunt": "~0.4.2",
-    "grunt-karma": "~0.9.0",
+    "grunt-karma": "0.12.1",
     "grunt-karma-coveralls": "~2.5.3",
     "karma": "~0.12.31",
     "grunt-cli": "~0.1.11",
