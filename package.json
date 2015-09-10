@@ -27,7 +27,7 @@
     "grunt-karma-coveralls": "~2.5.3",
     "karma": "~0.12.31",
     "grunt-cli": "~0.1.11",
-    "karma-coverage": "0.5.1",
+    "karma-coverage": "0.5.2",
     "karma-jasmine": "~0.3.4",
     "karma-phantomjs-launcher": "~0.1.1",
     "karma-requirejs": "~0.2.1"
