@@ -29,7 +29,7 @@
     "grunt-cli": "~0.1.11",
     "karma-coverage": "0.5.2",
     "karma-jasmine": "~0.3.4",
-    "karma-phantomjs-launcher": "~0.1.1",
+    "karma-phantomjs-launcher": "0.2.1",
     "karma-requirejs": "~0.2.1"
   },
   "dependencies": {
