@@ -22,15 +22,15 @@
   "homepage": "https://github.com/boennemann/badges",
   "devDependencies": {
     "bower": "1.5.2",
-    "grunt": "~0.4.2",
-    "grunt-karma": "~0.9.0",
-    "grunt-karma-coveralls": "~2.5.3",
-    "karma": "~0.12.31",
-    "grunt-cli": "~0.1.11",
+    "grunt": "0.4.4",
+    "grunt-karma": "0.9.0",
+    "grunt-karma-coveralls": "2.5.3",
+    "karma": "0.12.37",
+    "grunt-cli": "0.1.12",
     "karma-coverage": "0.5.2",
-    "karma-jasmine": "~0.3.4",
+    "karma-jasmine": "0.3.5",
     "karma-phantomjs-launcher": "0.2.1",
-    "karma-requirejs": "~0.2.1"
+    "karma-requirejs": "0.2.1"
   },
   "dependencies": {
     "lodash": "3.10.1"
