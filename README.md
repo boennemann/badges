@@ -52,6 +52,9 @@ Your favorite service is missing? [Pull Requests welcome](CONTRIBUTING.md).
 
 ## Test Coverage
 
+### Codecov - https://codecov.io/#features
+[![codecov.io](https://codecov.io/github/nelsonic/badges/coverage.svg?branch=master)](https://codecov.io/github/nelsonic/badges?branch=master)
+
 ### Coveralls
 [![Coverage Status](https://coveralls.io/repos/boennemann/badges/badge.png)](https://coveralls.io/r/boennemann/badges)
 

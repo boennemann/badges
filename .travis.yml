@@ -1,8 +1,11 @@
 language: node_js
 node_js:
   - '0.10'
+before_install:
+  - pip install --user codecov
 after_success:
   - ./node_modules/grunt-cli/bin/grunt coveralls
+  - codecov --file coverage/lcov.info --disable search
 cache:
   directories:
     - node_modules
