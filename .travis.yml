@@ -5,7 +5,7 @@ before_install:
   - pip install --user codecov
 after_success:
   - ./node_modules/grunt-cli/bin/grunt coveralls
-  - codecov --file coverage/lcov.info --disable search
+  - codecov --file coverage/'PhantomJS 1.9.8 (Linux 0.0.0)'/lcov.info --disable search
 cache:
   directories:
     - node_modules
