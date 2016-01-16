@@ -10,14 +10,13 @@ Your favorite service is missing? [Pull Requests welcome](CONTRIBUTING.md).
 [![Codeship Status for boennemann/badges](https://www.codeship.io/projects/2975f190-646d-0131-452c-7a6d2bba8338/status?branch=master)](https://www.codeship.io/projects/12448)
 
 ### Semaphore
-[![Build Status](https://semaphoreapp.com/api/v1/projects/d4cca506-99be-44d2-b19e-176f36ec8cf1/128505/shields_badge.png)](https://semaphoreapp.com/boennemann/badges)
-[![Build Status](https://semaphoreapp.com/api/v1/projects/d4cca506-99be-44d2-b19e-176f36ec8cf1/128505/badge.png)](https://semaphoreapp.com/boennemann/badges)
+[![Build Status](https://semaphoreapp.com/api/v1/projects/d4cca506-99be-44d2-b19e-176f36ec8cf1/128505/shields_badge.svg)](https://semaphoreapp.com/boennemann/badges)
+[![Build Status](https://semaphoreapp.com/api/v1/projects/d4cca506-99be-44d2-b19e-176f36ec8cf1/128505/badge.svg)](https://semaphoreapp.com/boennemann/badges)
 
 ### TravisCI
 [![Build Status](https://travis-ci.org/boennemann/badges.svg?branch=master)](https://travis-ci.org/boennemann/badges)
 
 ### Wercker
-
 [![wercker status](https://app.wercker.com/status/9e0bc54c43f48d220aec684fffb2b110/m/master "wercker status")](https://app.wercker.com/project/bykey/9e0bc54c43f48d220aec684fffb2b110)
 [![wercker status](https://app.wercker.com/status/9e0bc54c43f48d220aec684fffb2b110/s/master "wercker status")](https://app.wercker.com/project/bykey/9e0bc54c43f48d220aec684fffb2b110)
 
@@ -58,7 +57,7 @@ Your favorite service is missing? [Pull Requests welcome](CONTRIBUTING.md).
 > Codecov instructions/example for your Language see: https://codecov.io/#languages
 
 ### Coveralls
-[![Coverage Status](https://coveralls.io/repos/boennemann/badges/badge.png)](https://coveralls.io/r/boennemann/badges)
+[![Coverage Status](https://coveralls.io/repos/boennemann/badges/badge.svg)](https://coveralls.io/r/boennemann/badges)
 
 ### Scrutinizer
 [![Code Coverage](https://scrutinizer-ci.com/g/boennemann/badges/badges/coverage.png?s=909c9b9364a927cc44392eda274de31a30b9360b)](https://scrutinizer-ci.com/g/boennemann/badges/)
@@ -66,7 +65,7 @@ Your favorite service is missing? [Pull Requests welcome](CONTRIBUTING.md).
 ## Code Quality
 
 ### Code Climate
-[![Code Climate](https://codeclimate.com/github/boennemann/badges.png)](https://codeclimate.com/github/boennemann/badges)
+[![Code Climate](https://codeclimate.com/github/boennemann/badges.svg)](https://codeclimate.com/github/boennemann/badges)
 
 ### Scrutinizer
 [![Scrutinizer Quality Score](https://scrutinizer-ci.com/g/boennemann/badges/badges/quality-score.png?s=35c5476d4b6e6a249399f9f9c205d397f57b1d1c)](https://scrutinizer-ci.com/g/boennemann/badges/)
@@ -94,7 +93,7 @@ Your favorite service is missing? [Pull Requests welcome](CONTRIBUTING.md).
 ### Project Managment
 
 #### Waffle
-[![Stories in Ready](https://badge.waffle.io/boennemann/badges.png?label=ready)](https://waffle.io/boennemann/badges)
+[![Stories in Ready](https://badge.waffle.io/boennemann/badges.svg?label=ready)](https://waffle.io/boennemann/badges)
 
 ### Chat
 
