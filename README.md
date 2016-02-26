@@ -82,6 +82,8 @@ Your favorite service is missing? [Pull Requests welcome](CONTRIBUTING.md).
 #### Grunt
 [![Built with Grunt](https://cdn.gruntjs.com/builtwith.png)](http://gruntjs.com/)
 
+[![Built with Grunt](https://cdn.gruntjs.com/builtwith.svg)](http://gruntjs.com/)
+
 ### Funding
 
 #### Gittip (via Shields.io)
