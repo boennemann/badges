@@ -25,9 +25,6 @@ Your favorite service is missing? [Pull Requests welcome](CONTRIBUTING.md).
 ### Bower
 <img src="http://benschwarz.github.io/bower-badges/badge@2x.png" width="130" height="30">
 
-### NodeICO
-[![NPM](https://nodei.co/npm/badge-list.svg)](https://nodei.co/npm/badge-list/)
-
 ### Semantic Versioning (via Shields.io)
 [![Semver](http://img.shields.io/SemVer/2.0.0.png)](http://semver.org/spec/v2.0.0.html)
 
@@ -157,8 +154,6 @@ Your favorite service is missing? [Pull Requests welcome](CONTRIBUTING.md).
 [![forthebadge](http://forthebadge.com/badges/does-not-contain-msg.svg)](http://forthebadge.com)
 
 [![forthebadge](http://forthebadge.com/badges/does-not-contain-treenuts.svg)](http://forthebadge.com)
-
-[![forthebadge](http://forthebadge.com/badges/face-toasted.svg)](http://forthebadge.com)
 
 [![forthebadge](http://forthebadge.com/badges/fo-shizzle.svg)](http://forthebadge.com)
 
