@@ -25,6 +25,9 @@ Your favorite service is missing? [Pull Requests welcome](CONTRIBUTING.md).
 ### Bower
 <img src="http://benschwarz.github.io/bower-badges/badge@2x.png" width="130" height="30">
 
+### TypeScript
+[![TypeScript](https://badges.frapsoft.com/typescript/awesome/typescript.png?v=100)](https://github.com/ellerbrock/typescript-badges/) [![TypeScript](https://badges.frapsoft.com/typescript/code/typescript.png?v=100)](https://github.com/ellerbrock/typescript-badges/) [![TypeScript](https://badges.frapsoft.com/typescript/love/typescript.png?v=100)](https://github.com/ellerbrock/typescript-badges/) [![TypeScript](https://badges.frapsoft.com/typescript/version/typescript-v19.svg)](https://github.com/ellerbrock/typescript-badges/) 
+
 ### NodeICO
 [![NPM](https://nodei.co/npm/badge-list.svg)](https://nodei.co/npm/badge-list/)
 
