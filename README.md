@@ -25,9 +25,6 @@ Your favorite service is missing? [Pull Requests welcome](CONTRIBUTING.md).
 ### Bower
 <img src="http://benschwarz.github.io/bower-badges/badge@2x.png" width="130" height="30">
 
-### NodeICO
-[![NPM](https://nodei.co/npm/badge-list.svg)](https://nodei.co/npm/badge-list/)
-
 ### Semantic Versioning (via Shields.io)
 [![Semver](http://img.shields.io/SemVer/2.0.0.png)](http://semver.org/spec/v2.0.0.html)
 
@@ -35,6 +32,15 @@ Your favorite service is missing? [Pull Requests welcome](CONTRIBUTING.md).
 [![NPM version](https://badge.fury.io/js/badge-list.svg)](http://badge.fury.io/js/badge-list)
 [![GitHub version](https://badge.fury.io/gh/boennemann%2Fbadges.svg)](http://badge.fury.io/gh/boennemann%2Fbadges)
 [![Bower version](https://badge.fury.io/bo/badges.svg)](http://badge.fury.io/bo/badges)
+
+### Open Source Badges
+[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
+[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
+[![Open Source Love](https://badges.frapsoft.com/os/v3/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)  
+
+### Licence Badges
+[![Open Source Love](https://badges.frapsoft.com/os/mit/mit.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
+[![Open Source Love](https://badges.frapsoft.com/os/gpl/gpl.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
 
 ## Dependency Status
 
@@ -152,8 +158,6 @@ Your favorite service is missing? [Pull Requests welcome](CONTRIBUTING.md).
 [![forthebadge](http://forthebadge.com/badges/does-not-contain-msg.svg)](http://forthebadge.com)
 
 [![forthebadge](http://forthebadge.com/badges/does-not-contain-treenuts.svg)](http://forthebadge.com)
-
-[![forthebadge](http://forthebadge.com/badges/face-toasted.svg)](http://forthebadge.com)
 
 [![forthebadge](http://forthebadge.com/badges/fo-shizzle.svg)](http://forthebadge.com)
 
