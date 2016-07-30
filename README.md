@@ -73,6 +73,9 @@ Your favorite service is missing? [Pull Requests welcome](CONTRIBUTING.md).
 ### Code Climate
 [![Code Climate](https://codeclimate.com/github/boennemann/badges.svg)](https://codeclimate.com/github/boennemann/badges)
 
+### Codebeat
+[![codebeat badge](https://codebeat.co/badges/f7080893-9af7-4785-916c-d5fdbc67e26c)](https://codebeat.co/projects/github-com-boennemann-badges)
+
 ### Scrutinizer
 [![Scrutinizer Quality Score](https://scrutinizer-ci.com/g/boennemann/badges/badges/quality-score.png?s=35c5476d4b6e6a249399f9f9c205d397f57b1d1c)](https://scrutinizer-ci.com/g/boennemann/badges/)
 
