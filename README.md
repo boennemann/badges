@@ -115,10 +115,17 @@ Your favorite service is missing? [Pull Requests welcome](CONTRIBUTING.md).
 #### Flattr
 [![Flattr this git repo](http://api.flattr.com/button/flattr-badge-large.png)](https://flattr.com/submit/auto?user_id=boenne&url=https://github.com/boennemann/badges&title=badges&language=&tags=github&category=software)
 
-### Project Managment
+### Project Management
 
 #### Waffle
 [![Stories in Ready](https://badge.waffle.io/boennemann/badges.svg?label=ready)](https://waffle.io/boennemann/badges)
+
+#### VVWIP
+![Work In Progress](https://unpkg.com/vvwip/WIP.svg)
+![Active Work In Progress](https://unpkg.com/vvwip/AWIP.svg)
+![Very Work In Progress](https://unpkg.com/vvwip/VWIP.svg)
+![Very Very Work In Progress](https://unpkg.com/vvwip/VVWIP.svg)
+![I Give Up](https://unpkg.com/vvwip/IGVP.svg)
 
 ### Chat
 
