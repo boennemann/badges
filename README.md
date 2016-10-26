@@ -100,6 +100,11 @@ Your favorite service is missing? [Pull Requests welcome](CONTRIBUTING.md).
 
 ### Project Managment
 
+#### Github
+[![Pending Pull-Requests](http://githubbadges.herokuapp.com/boennemann/badges/pulls.svg?style=flat)](https://github.com/boennemann/badges/pulls)
+
+[![Open Issues](http://githubbadges.herokuapp.com/boennemann/badges/issues.svg?style=flat)](https://github.com/boennemann/badges/issues)
+
 #### Waffle
 [![Stories in Ready](https://badge.waffle.io/boennemann/badges.svg?label=ready)](https://waffle.io/boennemann/badges)
 
