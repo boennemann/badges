@@ -25,6 +25,10 @@ Your favorite service is missing? [Pull Requests welcome](CONTRIBUTING.md).
 ### Bower
 <img src="http://benschwarz.github.io/bower-badges/badge@2x.png" width="130" height="30">
 
+### [GitHub](http://githubbadges.com)
+[![star this repo](http://githubbadges.com/star.svg?user=boennemann&repo=badges&style=flat)](https://github.com/boennemann/badges)
+[![fork this repo](http://githubbadges.com/fork.svg?user=boennemann&repo=badges&style=flat)](https://github.com/boennemann/badges/fork)
+
 ### Semantic Versioning (via Shields.io)
 [![Semver](http://img.shields.io/SemVer/2.0.0.png)](http://semver.org/spec/v2.0.0.html)
 
