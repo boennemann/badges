@@ -80,6 +80,9 @@ Your favorite service is missing? [Pull Requests welcome](CONTRIBUTING.md).
 
 ### Analytics
 
+#### Bash Shell
+[![Bash Shell](https://badges.frapsoft.com/bash/v1/bash.png?v=103)](https://github.com/ellerbrock/open-source-badges/)
+
 #### Bitdeli
 [![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/boennemann/badges/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
 
