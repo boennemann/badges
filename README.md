@@ -1,3 +1,4 @@
+[![Stories in Ready](https://badge.waffle.io/boennemann/badges.png?label=ready)](https://waffle.io/boennemann/badges)
 # Badges
 
 A collection of all JavaScript related and free for open-source readme badges out there. All of the services are live and operating on this repository's dummy code.
