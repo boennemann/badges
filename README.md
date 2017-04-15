@@ -55,6 +55,9 @@ Your favorite service is missing? [Pull Requests welcome](CONTRIBUTING.md).
 [![Dependency Status](https://www.versioneye.com/user/projects/52ddcaabec13750540000106/badge.svg)](https://www.versioneye.com/user/projects/52ddcaabec13750540000106)
 [![Bower Dependency Status](https://www.versioneye.com/user/projects/52ebc86aec1375999400003e/badge.svg)](https://www.versioneye.com/user/projects/52ebc86aec1375999400003e)
 
+### Semantic Versioning
+[![Semver badge](http://calm-shore-6115.herokuapp.com/?label=SemVer&value=2.0.0&color=green)](http://semver.org/spec/v2.0.0.html)
+
 ## Test Coverage
 
 ### Codecov
