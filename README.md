@@ -42,6 +42,9 @@ Your favorite service is missing? [Pull Requests welcome](CONTRIBUTING.md).
 [![Open Source Love](https://badges.frapsoft.com/os/mit/mit.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
 [![Open Source Love](https://badges.frapsoft.com/os/gpl/gpl.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
 
+### NuGet
+[![NuGet Badge](https://buildstats.info/nuget/nunit)](https://www.nuget.org/packages/NUnit/)
+
 ## Dependency Status
 
 ### David
