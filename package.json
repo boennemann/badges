@@ -21,7 +21,7 @@
   },
   "homepage": "https://github.com/boennemann/badges",
   "devDependencies": {
-    "bower": "1.8.0",
+    "bower": "1.8.4",
     "grunt": "~1.0.1",
     "grunt-karma": "~2.0.0",
     "grunt-karma-coveralls": "~2.5.3",
