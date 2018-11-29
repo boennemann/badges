@@ -46,6 +46,9 @@ Your favorite service is missing? [Pull Requests welcome](CONTRIBUTING.md).
 [![Open Source Love](https://badges.frapsoft.com/os/mit/mit.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
 [![Open Source Love](https://badges.frapsoft.com/os/gpl/gpl.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
 
+### NPM
+[![NPM](https://nodei.co/npm/npm-badge.png)](https://npmjs.org/package/npm-badge)
+
 ### NuGet
 [![NuGet Badge](https://buildstats.info/nuget/nunit)](https://www.nuget.org/packages/NUnit/)
 
