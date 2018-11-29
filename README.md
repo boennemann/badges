@@ -96,6 +96,9 @@ Your favorite service is missing? [Pull Requests welcome](CONTRIBUTING.md).
 #### Bitdeli
 [![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/boennemann/badges/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
 
+#### BuildStats
+[![Build History](https://buildstats.info/appveyor/chart/dustinmoris/CI-BuildStats?branch=develop)](https://ci.appveyor.com/project/dustinmoris/ci-buildstats/history?branch=develop)
+
 ### Contribution
 #### Make a PR
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
