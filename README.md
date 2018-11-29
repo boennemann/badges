@@ -49,14 +49,14 @@ Your favorite service is missing? [Pull Requests welcome](CONTRIBUTING.md).
 ### NuGet
 [![NuGet Badge](https://buildstats.info/nuget/nunit)](https://www.nuget.org/packages/NUnit/)
 
-## Dependency Status
+## Dependencies Status
 
 ### David
-[![Dependency Status](https://david-dm.org/boennemann/badges.svg)](https://david-dm.org/boennemann/badges)
-[![devDependency Status](https://david-dm.org/boennemann/badges/dev-status.svg)](https://david-dm.org/boennemann/badges#info=devDependencies)
+[![dependencies Status](https://david-dm.org/boennemann/badges/status.svg)](https://david-dm.org/boennemann/badges)
+[![devDependencies Status](https://david-dm.org/boennemann/badges/dev-status.svg)](https://david-dm.org/boennemann/badges?type=dev)
 
-[![Dependency Status](https://david-dm.org/boennemann/badges.svg?theme=shields.io)](https://david-dm.org/boennemann/badges)
-[![devDependency Status](https://david-dm.org/boennemann/badges/dev-status.svg?theme=shields.io)](https://david-dm.org/boennemann/badges#info=devDependencies)
+[![dependencies Status](https://david-dm.org/boennemann/badges/status.svg?style=flat-square)](https://david-dm.org/boennemann/badges)
+[![devDependencies Status](https://david-dm.org/boennemann/badges/dev-status.svg?style=flat-square)](https://david-dm.org/boennemann/badges?type=dev)
 
 ### VersionEye
 [![Dependency Status](https://www.versioneye.com/user/projects/52ddcaabec13750540000106/badge.svg)](https://www.versioneye.com/user/projects/52ddcaabec13750540000106)
