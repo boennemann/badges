@@ -73,7 +73,10 @@ Your favorite service is missing? [Pull Requests welcome](CONTRIBUTING.md).
 [![Coverage Status](https://coveralls.io/repos/boennemann/badges/badge.svg)](https://coveralls.io/r/boennemann/badges)
 
 ### Scrutinizer
-[![Code Coverage](https://scrutinizer-ci.com/g/boennemann/badges/badges/coverage.png?s=909c9b9364a927cc44392eda274de31a30b9360b)](https://scrutinizer-ci.com/g/boennemann/badges/)
+[![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/boennemann/badges/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/boennemann/badges/?branch=master)
+[![Code Coverage](https://scrutinizer-ci.com/g/boennemann/badges/badges/coverage.png?b=master)](https://scrutinizer-ci.com/g/boennemann/badges/?branch=master)
+[![Build Status](https://scrutinizer-ci.com/g/boennemann/badges/badges/build.png?b=master)](https://scrutinizer-ci.com/g/boennemann/badges/build-status/master)
+[![Code Intelligence Status](https://scrutinizer-ci.com/g/boennemann/badges/badges/code-intelligence.svg?b=master)](https://scrutinizer-ci.com/code-intelligence)
 
 ## Code Quality
 
