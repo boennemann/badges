@@ -96,6 +96,11 @@ Your favorite service is missing? [Pull Requests welcome](CONTRIBUTING.md).
 #### Bitdeli
 [![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/boennemann/badges/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
 
+### Security
+
+#### Snyk
+[![Known Vulnerabilities](https://snyk.io/test/github/boennemann/badges/badge.svg)](https://snyk.io/test/github/boennemann/badges)
+
 ### Contribution
 #### Make a PR
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
