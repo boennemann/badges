@@ -64,6 +64,10 @@ Your favorite service is missing? [Pull Requests welcome](CONTRIBUTING.md).
 
 ## Test Coverage
 
+### Code Climate
+
+[![Test Coverage](https://codeclimate.com/github/boennemann/badges/badges/coverage.svg)](https://codeclimate.com/github/boennemann/badges/coverage)
+
 ### Codecov
 [![codecov.io](https://codecov.io/github/boennemann/badges/coverage.svg?branch=master)](https://codecov.io/github/boennemann/badges?branch=master)
 > Features: https://codecov.io/#features  
@@ -79,6 +83,8 @@ Your favorite service is missing? [Pull Requests welcome](CONTRIBUTING.md).
 
 ### Code Climate
 [![Code Climate](https://codeclimate.com/github/boennemann/badges.svg)](https://codeclimate.com/github/boennemann/badges)
+
+[![Issue Count](https://codeclimate.com/github/boennemann/badges/badges/issue_count.svg)](https://codeclimate.com/github/boennemann/badges)
 
 ### Codebeat
 [![codebeat badge](https://codebeat.co/badges/f7080893-9af7-4785-916c-d5fdbc67e26c)](https://codebeat.co/projects/github-com-boennemann-badges)
