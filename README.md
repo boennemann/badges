@@ -53,10 +53,10 @@ Your favorite service is missing? [Pull Requests welcome](CONTRIBUTING.md).
 
 ### David
 [![Dependency Status](https://david-dm.org/boennemann/badges.svg)](https://david-dm.org/boennemann/badges)
-[![devDependency Status](https://david-dm.org/boennemann/badges/dev-status.svg)](https://david-dm.org/boennemann/badges#info=devDependencies)
+[![devDependency Status](https://david-dm.org/boennemann/badges/dev-status.svg)](https://david-dm.org/boennemann/badges?type=dev)
 
 [![Dependency Status](https://david-dm.org/boennemann/badges.svg?theme=shields.io)](https://david-dm.org/boennemann/badges)
-[![devDependency Status](https://david-dm.org/boennemann/badges/dev-status.svg?theme=shields.io)](https://david-dm.org/boennemann/badges#info=devDependencies)
+[![devDependency Status](https://david-dm.org/boennemann/badges/dev-status.svg?theme=shields.io)](https://david-dm.org/boennemann/badges?type=dev)
 
 ### VersionEye
 [![Dependency Status](https://www.versioneye.com/user/projects/52ddcaabec13750540000106/badge.svg)](https://www.versioneye.com/user/projects/52ddcaabec13750540000106)
