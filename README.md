@@ -139,6 +139,10 @@ Your favorite service is missing? [Pull Requests welcome](CONTRIBUTING.md).
 
 ### Generic
 
+#### SayThanks.io
+[![Say Thanks!](https://img.shields.io/badge/Say%20Thanks-!-1EAEDB.svg)](https://saythanks.io/to/boennemann)
+>Set up here: https://saythanks.io
+
 #### Shields.io
 [![Shields.io](https://img.shields.io/badge/shields.io-ok-green.svg?style=flat)](http://shields.io/)
 
